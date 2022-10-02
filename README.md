@@ -28,7 +28,7 @@ CRITERIOS DE ACEITAÇÃO:
 
 -Podendo ser usado para bloqueio na compra de produtos alcoolicos
 
-#DEFINITION OF DONE
+# DEFINITION OF DONE
 
 Todo codigo será testado, e será feito um relatorio dos resultados finais, o codigo só será entregue com 100% de funcionalidade
 
